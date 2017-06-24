@@ -1,3 +1,6 @@
+###
+#给定输入和输出，设定模型为y=wx+b。用梯度下降法对w、b求解
+###
 import numpy as np
 import tensorflow as tf
 
