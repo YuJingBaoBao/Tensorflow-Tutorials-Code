@@ -1,3 +1,6 @@
+###
+#利用tf.contrib.learn模块实现线性回归
+###
 import tensorflow as tf
 # NumPy is often used to load, manipulate and preprocess data.
 import numpy as np
